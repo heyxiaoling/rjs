@@ -1,0 +1,11 @@
+
+index/b.js
+----------------
+index/a.js
+index/b.js
+
+index/c.js
+----------------
+index/a.js
+index/b.js
+index/c.js
